@@ -1,6 +1,6 @@
 ![](./scribble2digit_logo75.png) 
 
-**scribble2digit** is a Python machine learning code that uses [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/) to identify handwritten digits from a version of the MNIST dataset of [LeCun _et al. _\(1998\)](http://yann.lecun.com/exdb/mnist/index.html) that was provided by the [Kaggle Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition.
+**scribble2digit** is a Python machine learning code that uses [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/) to identify handwritten digits from a version of the MNIST dataset of [LeCun _et al._ \(1998\)](http://yann.lecun.com/exdb/mnist/index.html) that was provided by the [Kaggle Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition.
 
 # Dataset description
 

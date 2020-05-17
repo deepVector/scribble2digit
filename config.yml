@@ -1,0 +1,9 @@
+# Project configuration
+# Author: deepVector: https://github.com/deepVector
+# Copyright: Copyright (c) 2020-present, deepVector
+# License: Creative Commons Attribution 4.0 International (cc-by-4.0)
+# Maintainer: deepVector
+
+dataset:
+  kaggle:
+    name: "digit-recognizer"
